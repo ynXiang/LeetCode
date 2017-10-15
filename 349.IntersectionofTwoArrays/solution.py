@@ -5,10 +5,4 @@ class Solution(object):
         :type nums2: List[int]
         :rtype: List[int]
         """
-        s1 = set(nums1)
-        s2 = set(nums2)
-        ans = []
-        for i in s1:
-            if i in s2:
-                ans.append(i)
-        return ans
+        return list(set(nums1) & set(nums2))

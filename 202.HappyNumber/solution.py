@@ -1,3 +1,5 @@
+#https://discuss.leetcode.com/topic/12587/my-solution-in-c-o-1-space-and-no-magic-math-property-involved
+
 class Solution(object):
     def isHappy(self, n):
         """

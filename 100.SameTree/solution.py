@@ -1,3 +1,5 @@
+#https://discuss.leetcode.com/topic/14561/shortest-simplest-python/2
+
 # Definition for a binary tree node.
 # class TreeNode(object):
 #     def __init__(self, x):

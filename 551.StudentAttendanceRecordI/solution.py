@@ -1,3 +1,5 @@
+#https://discuss.leetcode.com/topic/86534/tiny-ruby-short-python-java-c
+
 class Solution(object):
     def checkRecord(self, s):
         """

@@ -1,3 +1,5 @@
+#https://discuss.leetcode.com/topic/43463/1-2-lines-python-ruby
+
 class Solution(object):
     def reverseVowels(self, s):
         """

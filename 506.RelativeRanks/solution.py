@@ -1,3 +1,5 @@
+#https://discuss.leetcode.com/topic/77943/python-solution
+
 import copy
 
 class Solution(object):

@@ -1,3 +1,5 @@
+#https://discuss.leetcode.com/topic/17199/python-solution-3-lines
+
 class Solution(object):
     def rob(self, nums):
         """

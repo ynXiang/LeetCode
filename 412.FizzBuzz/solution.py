@@ -1,3 +1,5 @@
+#https://discuss.leetcode.com/topic/63876/python-golf
+
 class Solution(object):
     def fizzBuzz(self, n):
         """

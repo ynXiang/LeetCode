@@ -1,3 +1,5 @@
+#https://discuss.leetcode.com/topic/77793/one-liner-ruby-python
+
 class Solution(object):
     def findWords(self, words):
         """

@@ -1,3 +1,5 @@
+#https://discuss.leetcode.com/topic/19993/python-different-solutions-dictionary-etc
+
 class Solution(object):
     def isIsomorphic(self, s, t):
         """

@@ -1,3 +1,5 @@
+#https://discuss.leetcode.com/topic/47195/4-different-ways-to-solve-iterative-recursive-bit-operation-math
+
 class Solution(object):
     def isPowerOfTwo(self, n):
         """

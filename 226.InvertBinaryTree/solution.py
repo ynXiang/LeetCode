@@ -1,3 +1,5 @@
+#https://discuss.leetcode.com/topic/16062/3-4-lines-python
+
 # Definition for a binary tree node.
 # class TreeNode(object):
 #     def __init__(self, x):
@@ -11,11 +13,6 @@ class Solution(object):
         :type root: TreeNode
         :rtype: TreeNode
         """
-        if root == None:
-            return None
-        tmp = root.left
-        root.left = root.right
-        root.right = tmp
-        self.invertTree(root.left)
-        self.invertTree(root.right)
-        return root
+        if root:
+            root.right, root.left = self.invertTree(root.left), self.invertTree(root.right)
+            return root

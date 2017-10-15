@@ -1,3 +1,5 @@
+#https://discuss.leetcode.com/topic/81017/python-easy-understand-solution
+
 # Definition for a binary tree node.
 # class TreeNode(object):
 #     def __init__(self, x):

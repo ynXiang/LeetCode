@@ -1,3 +1,5 @@
+#https://discuss.leetcode.com/topic/85882/1-line-ruby-python
+
 class Solution(object):
     def reverseWords(self, s):
         """

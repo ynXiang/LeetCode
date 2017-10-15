@@ -1,3 +1,5 @@
+#https://discuss.leetcode.com/topic/59374/simple-python-java
+
 class Solution(object):
     def readBinaryWatch(self, num):
         """

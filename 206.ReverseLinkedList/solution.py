@@ -1,3 +1,5 @@
+#https://discuss.leetcode.com/topic/14043/python-iterative-and-recursive-solution
+
 # Definition for singly-linked list.
 # class ListNode(object):
 #     def __init__(self, x):

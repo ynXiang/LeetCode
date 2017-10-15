@@ -1,3 +1,5 @@
+#https://discuss.leetcode.com/topic/68778/short-python
+
 class Solution(object):
     def islandPerimeter(self, grid):
         """

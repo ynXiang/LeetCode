@@ -1,3 +1,5 @@
+#https://discuss.leetcode.com/topic/60929/1-liner-in-python
+
 class Solution(object):
     def toHex(self, num):
         """

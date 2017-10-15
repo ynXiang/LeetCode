@@ -1,3 +1,5 @@
+#https://discuss.leetcode.com/topic/68838/python-4-lines-with-short-explanation
+
 class Solution(object):
     def findDisappearedNumbers(self, nums):
         """

@@ -1,3 +1,5 @@
+#https://discuss.leetcode.com/topic/77959/meh-1000-is-small
+
 class Solution(object):
     def nextGreaterElement(self, findNums, nums):
         """

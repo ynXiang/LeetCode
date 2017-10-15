@@ -1,3 +1,5 @@
+#https://discuss.leetcode.com/topic/68206/easy-python-solution-with-explaination
+
 class Solution(object):
     def repeatedSubstringPattern(self, s):
         """

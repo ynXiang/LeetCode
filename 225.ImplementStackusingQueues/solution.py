@@ -1,3 +1,5 @@
+#https://discuss.leetcode.com/topic/16847/python-solution-o-1-o-n-for-push-48ms
+
 class MyStack(object):
 
     def __init__(self):

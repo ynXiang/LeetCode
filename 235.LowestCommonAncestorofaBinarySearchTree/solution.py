@@ -1,3 +1,5 @@
+#https://discuss.leetcode.com/topic/18387/3-lines-with-o-1-space-1-liners-alternatives
+
 # Definition for a binary tree node.
 # class TreeNode(object):
 #     def __init__(self, x):

@@ -1,3 +1,5 @@
+#https://discuss.leetcode.com/topic/26316/short-in-python
+
 class Solution(object):
     def wordPattern(self, pattern, str):
         """
