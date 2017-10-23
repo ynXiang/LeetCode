@@ -15,5 +15,4 @@ class Solution(object):
                 numOfWays[i] = 0
             else:
                 numOfWays[i] = numOfWays[i-1]
-        print numOfWays
         return numOfWays[-1]
