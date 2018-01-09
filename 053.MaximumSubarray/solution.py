@@ -14,7 +14,7 @@ class Solution(object):
         large = nums[0]
         for i,v in enumerate(sumnums[1:]):
             if v <= small:
-                small, large = v, va
+                small, large = v, v
                 if ans < sumnums[i+1] - sumnums[i]:
                     ans = sumnums[i+1] - sumnums[i]
             if v > large:
